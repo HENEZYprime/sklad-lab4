@@ -26,3 +26,4 @@
 ![](docs/diagrams/er_diagram.png)
 
 Код ER-диаграммы — в [docs/diagrams/er_diagram.puml](docs/diagrams/er_diagram.puml.txt)
+![](docs/diagrams/er_diagram.png)
